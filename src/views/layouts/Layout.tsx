@@ -22,7 +22,7 @@ function Layout() {
 
       <div className={`grid grid-cols-[clamp(210px,20%,270px)_1fr]`}>
         <div
-          className={`overflow-y-auto h-screen pb-8 sticky top-0 bottom-0 bg-base-200 z-10 pt-5 rounded-sm ${
+          className={`overflow-y-hidden h-screen pb-8 sticky top-0 bottom-0 bg-base-200 z-10 pt-5 rounded-sm ${
             isExpanded ? '' : 'hidden'
           }`}
         >
