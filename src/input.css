@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .simple-animate {
+    @apply transition ease-in-out duration-300;
+  }
+
+  h3 {
+    @apply font-header2 font-bold text-neutral-content;
+  }
+
+  .bg-primary {
+    @apply font-header2 font-bold simple-animate;
+  }
+}
+

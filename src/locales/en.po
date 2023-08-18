@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-08-09 15:53-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/routes/MainRoutes.tsx:26
+msgid "Calendar"
+msgstr "Calendar"
+
+#: src/routes/MainRoutes.tsx:4
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: src/routes/MainRoutes.tsx:10
+msgid "Data Utilities"
+msgstr "Data Utilities"
+
+#: src/routes/MainRoutes.tsx:11
+msgid "Sponsors"
+msgstr "Sponsors"
+
+
+#: src/routes/MainRoutes.tsx:16
+msgid "Studies"
+msgstr "Studies"
+
+
+#: src/routes/MainRoutes.tsx:21
+msgid "Study Packages"
+msgstr "Study Packages"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:15
+msgid "Development Status"
+msgstr "Development Status"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:15
+#: src/views/pages/Dashboard/Dashboard.tsx:22
+#: src/views/pages/Dashboard/Dashboard.tsx:29
+#: src/views/pages/Dashboard/Dashboard.tsx:36
+#~ msgid "Example Chart"
+#~ msgstr "Example Chart"
+
+#: src/routes/MainRoutes.tsx:27
+msgid "Files"
+msgstr "Files"
+
+#: src/routes/MainRoutes.tsx:7
+msgid "Jobs"
+msgstr "Jobs"
+
+#: src/views/layouts/Sidebar.tsx:90
+msgid "Logout"
+msgstr "Logout"
+
+#: src/views/pages/Dashboard/Welcome.tsx:11
+msgid "Programming Lead"
+msgstr "Programming Lead"
+
+#: src/views/layouts/Sidebar.tsx:70
+msgid "PROJECTS"
+msgstr "PROJECTS"
+
+#: src/views/pages/Dashboard/Welcome.tsx:15
+msgid "QC Lead"
+msgstr "QC Lead"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:22
+msgid "QC Status"
+msgstr "QC Status"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:42
+msgid "Recent Jobs"
+msgstr "Recent Jobs"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:36
+msgid "Regional Data"
+msgstr "Regional Data"
+
+#: src/views/pages/Dashboard/Welcome.tsx:35
+#: src/views/pages/Dashboard/Welcome.tsx:55
+msgid "remaining"
+msgstr "remaining"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:29
+msgid "Resources"
+msgstr "Resources"
+
+#: src/views/pages/Dashboard/Welcome.tsx:32
+#: src/views/pages/Dashboard/Welcome.tsx:51
+msgid "Tasks"
+msgstr "Tasks"
+
+#: src/views/layouts/Sidebar.tsx:27
+msgid "tasks remaining"
+msgstr "tasks remaining"
+
+#: src/views/layouts/Sidebar.tsx:26
+msgid "Your Tasks"
+msgstr "Your Tasks"

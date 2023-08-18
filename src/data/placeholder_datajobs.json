@@ -1,0 +1,30 @@
+{
+  "rows": [
+    {
+      "result": ["result.xlsx"],
+      "name": "Data Comparison",
+      "job_id": "example123",
+      "job_status": "Success",
+      "start_time": 1689701492,
+      "finish_time": 1689701511
+    },
+
+    {
+      "result": ["result.xlsx"],
+      "name": "DM Data Reconciliation",
+      "job_id": "example123",
+      "job_status": "Success",
+      "start_time": 1689701092,
+      "finish_time": 1689701411
+    },
+
+    {
+      "result": ["result.xlsx"],
+      "name": "Spec Splitting",
+      "job_id": "example123",
+      "job_status": "Success",
+      "start_time": 1689702492,
+      "finish_time": 1689725511
+    }
+  ]
+}

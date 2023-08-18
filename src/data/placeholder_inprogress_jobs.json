@@ -1,0 +1,24 @@
+{
+  "rows": [
+    {
+      "finish_time": 1689701503,
+      "job_id": "1689701492-BIO89-100-122 Dili Python",
+      "job_status": "In Progress",
+      "log_text": "2023-07-18 13:31:32,392 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [file_folder_move] ...\n2023-07-18 13:31:32,438 - [WARNING][ThreadPoolExecutor-0_2][MainTaskExecutor] - IGNORE: The source file/folder [K:\\SecureSpace\\89bio\\89bio-Inbound\\BIO89-100-122\\DILI Data Uploads\\89bio ENLIVEN sDILI CTL Data.xlsx] does not exist\n2023-07-18 13:31:32,438 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [file_folder_copy] ...\n2023-07-18 13:31:32,610 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [git_pull] ...\n2023-07-18 13:31:32,610 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Running git pull code at K:\\Sponsors\\89bio\\BIO89-100-122\\csr\\dev\\data\\DV\n2023-07-18 13:31:36,428 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - [output]=\nAlready up to date.\n\n2023-07-18 13:31:36,428 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - return code = 0. [error]=\n\n2023-07-18 13:31:36,428 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [run_python] ...\n2023-07-18 13:31:36,428 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Running python code at K:\\Sponsors\\89bio\\BIO89-100-122\\csr\\dev\\data\\DV\\dili\\dili.py\n2023-07-18 13:31:43,088 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - [output]=\nLoading input data successfully.\nCombining data completed.\nBaseline value calculated completed\nBaseline flags created. Refer to baseline_res.csv\nValidation completed. Refer to val_res.csv\nGenerating output...\nComplete!\n\n2023-07-18 13:31:43,088 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - return code = 0. [error]=\n\n2023-07-18 13:31:43,088 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [folder_zip] ...\n",
+      "name": "GUI12-340-122 Daisy UI",
+      "start_time": 1689701492,
+      "study_id": "BIO89-100-122(Prod)",
+      "user_id": "william.huang@klserv.com"
+    },
+    {
+      "finish_time": 1689616755,
+      "job_id": "1689616739-BIO89-100-122 Dili Python",
+      "job_status": "In Progress",
+      "log_text": "2023-07-17 13:58:59,723 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [file_folder_move] ...\n2023-07-17 13:58:59,723 - [WARNING][ThreadPoolExecutor-0_2][MainTaskExecutor] - IGNORE: The source file/folder [K:\\SecureSpace\\89bio\\89bio-Inbound\\BIO89-100-122\\DILI Data Uploads\\89bio ENLIVEN sDILI CTL Data.xlsx] does not exist\n2023-07-17 13:58:59,723 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [file_folder_copy] ...\n2023-07-17 13:58:59,832 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [git_pull] ...\n2023-07-17 13:58:59,832 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Running git pull code at K:\\Sponsors\\89bio\\BIO89-100-122\\csr\\dev\\data\\DV\n2023-07-17 13:59:09,023 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - [output]=\nAlready up to date.\n\n2023-07-17 13:59:09,023 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - return code = 0. [error]=\n\n2023-07-17 13:59:09,023 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [run_python] ...\n2023-07-17 13:59:09,038 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Running python code at K:\\Sponsors\\89bio\\BIO89-100-122\\csr\\dev\\data\\DV\\dili\\dili.py\n2023-07-17 13:59:15,071 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - [output]=\nLoading input data successfully.\nCombining data completed.\nBaseline value calculated completed\nBaseline flags created. Refer to baseline_res.csv\nValidation completed. Refer to val_res.csv\nGenerating output...\nComplete!\n\n2023-07-17 13:59:15,071 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - return code = 0. [error]=\n\n2023-07-17 13:59:15,071 - [INFO][ThreadPoolExecutor-0_2][MainTaskExecutor] - Executing task [folder_zip] ...\n",
+      "name": "GUI12-242-111 Tailwind CSS",
+      "start_time": 1689616739,
+      "study_id": "BIO89-100-122(Prod)",
+      "user_id": "john.smith@klserv.com"
+    }
+  ]
+}

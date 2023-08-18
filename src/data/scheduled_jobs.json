@@ -1,0 +1,35 @@
+{
+  "rows": [
+    {
+      "emailTo": ["yu.du@clinchoice.com"],
+      "enabled": true,
+      "name": "BIO89-100-122 Dili Python",
+      "notification": "always",
+      "permission": "use",
+      "studyId": "BIO89-100-122(Prod)",
+      "tasks": "common/file_folder_move, common/file_folder_copy, common/git_pull, common/run_python, common/folder_zip",
+      "trigger": "50 11 * * *"
+    },
+    {
+      "emailTo": ["yu.du@clinchoice.com", "william.huang@klserv.com"],
+      "enabled": true,
+      "name": "Run Build",
+      "notification": "always",
+      "permission": "use",
+      "studyId": "JOB-SAMPLE-001(Prod)",
+      "tasks": "src/run_build output/dist",
+      "trigger": "12 34 * * *"
+    },
+
+    {
+      "emailTo": ["william.huang@klserv.com"],
+      "enabled": true,
+      "name": "Run Deploy",
+      "notification": "always",
+      "permission": "use",
+      "studyId": "JOB-SAMPLE-002(Prod)",
+      "tasks": "npx http-server dist",
+      "trigger": "24 11 * * *"
+    }
+  ]
+}

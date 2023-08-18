@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-08-09 15:53-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: cn\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/routes/MainRoutes.tsx:11
+msgid "Calendar"
+msgstr "日历"
+
+#: src/routes/MainRoutes.tsx:4
+msgid "Dashboard"
+msgstr "仪表板"
+
+#: src/routes/MainRoutes.tsx:10
+msgid "Data Utilities"
+msgstr "数据工具"
+
+
+#: src/routes/MainRoutes.tsx:11
+msgid "Sponsors"
+msgstr "赞助"
+
+
+#: src/routes/MainRoutes.tsx:16
+msgid "Studies"
+msgstr "书房"
+
+
+#: src/routes/MainRoutes.tsx:21
+msgid "Study Packages"
+msgstr "书房包"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:15
+msgid "Development Status"
+msgstr "发展状况"
+
+#: src/routes/MainRoutes.tsx:12
+msgid "Files"
+msgstr "文件"
+
+#: src/routes/MainRoutes.tsx:7
+msgid "Jobs"
+msgstr "工作"
+
+#: src/views/layouts/Sidebar.tsx:90
+msgid "Logout"
+msgstr "登出"
+
+#: src/views/pages/Dashboard/Welcome.tsx:11
+msgid "Programming Lead"
+msgstr "Programming 领导者"
+
+#: src/views/layouts/Sidebar.tsx:70
+msgid "PROJECTS"
+msgstr "项目"
+
+#: src/views/pages/Dashboard/Welcome.tsx:15
+msgid "QC Lead"
+msgstr "QC 领导者"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:22
+msgid "QC Status"
+msgstr "QC 地位"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:42
+msgid "Recent Jobs"
+msgstr "最近的工作"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:36
+msgid "Regional Data"
+msgstr "区域数据"
+
+#: src/views/pages/Dashboard/Welcome.tsx:35
+#: src/views/pages/Dashboard/Welcome.tsx:55
+msgid "remaining"
+msgstr "其余的"
+
+#: src/views/pages/Dashboard/Dashboard.tsx:29
+msgid "Resources"
+msgstr "资源"
+
+#: src/views/pages/Dashboard/Welcome.tsx:32
+#: src/views/pages/Dashboard/Welcome.tsx:51
+msgid "Tasks"
+msgstr "任务"
+
+#: src/views/layouts/Sidebar.tsx:27
+msgid "tasks remaining"
+msgstr "剩余任务"
+
+#: src/views/layouts/Sidebar.tsx:26
+msgid "Your Tasks"
+msgstr "你的任务"
